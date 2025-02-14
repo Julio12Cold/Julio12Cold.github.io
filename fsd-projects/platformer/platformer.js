@@ -66,11 +66,11 @@ createCollectable("database", 50, 250, 0.5, 0.7);
     
     // TODO 4 - Create Cannons
 createCannon("top", 200, 1500);
-createCannon("top", 500, 1500);
-createCannon("top", 800, 1500);
-createCannon("top", 1300, 1500);
+createCannon("top", 500, 1000);
+createCannon("top", 800, 1000);
+createCannon("top", 1300, 1000);
 
-createCannon("right", 470, 5000);
+createCannon("right", 440, 5000);
 createCannon("right", 570, 3500);
 
 createCannon("left", 580, 2500);
